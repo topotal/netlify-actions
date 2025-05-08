@@ -1,4 +1,4 @@
-FROM node:22-alpine
+FROM node:18-alpine
 
 LABEL version="1.0.4"
 LABEL repository="https://github.com/topotal/netlify-actions"
